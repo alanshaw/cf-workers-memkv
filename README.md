@@ -1,5 +1,7 @@
 # cf-workers-memkv
 
+[![dependencies Status](https://status.david-dm.org/gh/alanshaw/cf-workers-memkv.svg)](https://david-dm.org/alanshaw/cf-workers-memkv)
+
 In memory Cloudflare workers KV store for testing.
 
 ## Install
@@ -29,3 +31,15 @@ console.log(apples) // { keys: [{ name: 'apple:grannysmith', metadata: { name: '
 
 await fruits.delete(key)
 ```
+
+## API
+
+See [Cloudflare Workers Runtime API docs](https://developers.cloudflare.com/workers/runtime-apis/kv).
+
+## Contribute
+
+Feel free to dive in! [Open an issue](https://github.com/alanshaw/cf-workers-memkv/issues/new) or submit PRs.
+
+## License
+
+[MIT](LICENSE) © Alan Shaw
