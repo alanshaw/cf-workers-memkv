@@ -1,5 +1,6 @@
 # cf-workers-memkv
 
+[![Build Status](https://travis-ci.org/alanshaw/cf-workers-memkv.svg?branch=main)](https://travis-ci.org/alanshaw/cf-workers-memkv)
 [![dependencies Status](https://status.david-dm.org/gh/alanshaw/cf-workers-memkv.svg)](https://david-dm.org/alanshaw/cf-workers-memkv)
 
 In memory Cloudflare workers KV store for testing.
