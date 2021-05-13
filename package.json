@@ -1,6 +1,6 @@
 {
   "name": "cf-workers-memkv",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "In memory Cloudflare workers KV store for testing.",
   "main": "dist/MemKV.js",
   "type": "module",
