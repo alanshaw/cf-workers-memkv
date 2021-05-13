@@ -36,5 +36,8 @@
   "bugs": {
     "url": "https://github.com/alanshaw/cf-workers-memkv/issues"
   },
-  "homepage": "https://github.com/alanshaw/cf-workers-memkv#readme"
+  "homepage": "https://github.com/alanshaw/cf-workers-memkv#readme",
+  "dependencies": {
+    "cf-workers-kv": "^0.0.0"
+  }
 }
